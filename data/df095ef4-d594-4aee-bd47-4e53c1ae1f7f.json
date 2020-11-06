@@ -1,0 +1,8 @@
+{
+    "transaccion_id": "df095ef4-d594-4aee-bd47-4e53c1ae1f7f",
+    "dni_cliente": 30949303,
+    "tipo_movimiento": "CASH_IN",
+    "monto_movimiento": 50000,
+    "estado": "APROBADO",
+    "nombre_comercio": "PAGOFACIL"
+}

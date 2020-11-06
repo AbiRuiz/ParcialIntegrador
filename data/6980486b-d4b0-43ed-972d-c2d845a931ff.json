@@ -1,0 +1,8 @@
+{
+    "transaccion_id": "6980486b-d4b0-43ed-972d-c2d845a931ff",
+    "dni_cliente": 45990339,
+    "tipo_movimiento": "CONSUMO",
+    "monto_movimiento": 2000,
+    "estado": "RECHAZADO",
+    "nombre_comercio": "MUSIMUNDO"
+}
